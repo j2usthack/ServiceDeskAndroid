@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984082327443",
+    "project_id": "servicedeskapk",
+    "storage_bucket": "servicedeskapk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984082327443:android:b95cec1c6e56bb2bf9ea66",
+        "android_client_info": {
+          "package_name": "com.example.servicedeskapk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOrlSWEc04gQ8XWVj-bHhxQFQl9LdDD1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
